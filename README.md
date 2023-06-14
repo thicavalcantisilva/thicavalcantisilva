@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**thicavalcantisilva/thicavalcantisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
@@ -11,10 +8,10 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
--->
+
 
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
